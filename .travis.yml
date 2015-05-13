@@ -1,0 +1,9 @@
+---
+language: python
+python: 
+  - "3.3"
+  - "3.4"
+  - "nightly"
+
+install: "pip install -r requirements.txt"
+script: "python -m doctest genplugins.py"
