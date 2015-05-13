@@ -1,6 +1,8 @@
 Jenkins Docker Volume
 =====================
 
+[![Build Status](https://travis-ci.org/pitchplay/jenkins-docker-volume.svg)](https://travis-ci.org/pitchplay/jenkins-docker-volume)
+
 WIP. :)
 
 Usage
